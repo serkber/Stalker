@@ -207,6 +207,7 @@
     </scripts>
     <script>scripts\Test1.gml</script>
     <script>scripts\Test2.gml</script>
+    <script>scripts\Test3.gml</script>
   </scripts>
   <fonts name="fonts">
     <font>fonts\font_gui_info</font>
