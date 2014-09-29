@@ -205,6 +205,7 @@
     <scripts name="FX">
       <script>scripts\scr_soundplay.gml</script>
     </scripts>
+    <script>scripts\Test1.gml</script>
   </scripts>
   <fonts name="fonts">
     <font>fonts\font_gui_info</font>
