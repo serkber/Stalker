@@ -7,7 +7,6 @@ switch (argument0)
             {
                 if slot[i] != 0
                 {
-                    instance_create(obj_cupboard.x+22,obj_cupboard.y-28,obj_pincers)
                     scr_info ("I used the cupboard key for open it.")
                     if invobject[i].object == 8
                     with (invobject[i]) instance_destroy()
